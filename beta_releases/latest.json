@@ -2,8 +2,8 @@
     "notes": "",
     "platforms": {
         "windows-x86_64": {
-            "url": "http://vektor-app2-api-dev.lemonflower-c9348f1c.northcentralus.azurecontainerapps.io/api/v1/updates/download?blob=releases/version_1.0.1-1/US%20Income%20Tax%20Form%20Reviewer%20Tool_1.0.1-1_x64_en-US.msi",
-            "signature": ""
+            "url": "",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU3hudzBEVGtBRFdNTjhtRWE4MGc3bEdnd3hLR3l4QWZXcEx3ZnMva240Qi9FWWlqenJaVHc4ckl5bE9pemZtSk5JTStvd1ZHVi96cVp4eXNRcFFaaE9YMnh2NlVKd0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDQ4MTg0CWZpbGU6QkVUQSBURVNUSU5HIFVTIEluY29tZSBUYXggRm9ybSBSZXZpZXdlciBUb29sXzEuMS4wLTRfeDY0X2VuLVVTLm1zaQowN0U1YmdHSWtYREtwNmFQeXpGb0hEOUYwYmw0Mk9FQ2loQVFzQktpM1prWDNnZ3ZOa25tWC81OTIxQTZKakw4cnBKVkg1Qm1oSnFlemtXMzNQWVRCUT09Cg=="
         }
     },
     "pub_date": "2026-03-16T12:58:23.430Z",
