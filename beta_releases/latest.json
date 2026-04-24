@@ -1,0 +1,11 @@
+{
+    "notes": "",
+    "platforms": {
+        "windows-x86_64": {
+            "url": "http://vektor-app2-api-dev.lemonflower-c9348f1c.northcentralus.azurecontainerapps.io/api/v1/updates/download?blob=releases/version_1.0.1-1/US%20Income%20Tax%20Form%20Reviewer%20Tool_1.0.1-1_x64_en-US.msi",
+            "signature": ""
+        }
+    },
+    "pub_date": "2026-03-16T12:58:23.430Z",
+    "version": "1.1.0-3"
+}
