@@ -2,10 +2,10 @@
     "notes": "",
     "platforms": {
         "windows-x86_64": {
-            "url": "https://github.com/luisdlt9/update/raw/refs/heads/main/beta_releases/1.1.1-8/BETA%20TESTING%20US%20Income%20Tax%20Form%20Reviewer%20Tool_1.1.1-8_x64_en-US.msi",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU3hudzBEVGtBRFhhbE5HV1gzTzNVcDFsbVYyT1o3L3ZOZ0RkcmUvd2ZiUlkyeGg5cUJuVklibm9zeTNYQlFzRDhiS3hkVHB3MzFTOTEvYVVvVzE5VllXeE55QzNqYkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODAxNjc3CWZpbGU6QkVUQSBURVNUSU5HIFVTIEluY29tZSBUYXggRm9ybSBSZXZpZXdlciBUb29sXzEuMS4xLThfeDY0X2VuLVVTLm1zaQo0UDNyOC8xWXB3SXlRTGsrd1V0bzVueVIwNFJEMjNXNURJQ1ZJUEVMV3hlMEtTODY0UXQ3Sk9TZ01mVGJSdm90TGJvSG83bWYyV2FBSDVPZ3FPMkxCQT09Cg=="
+            "url": "https://github.com/luisdlt9/update/raw/refs/heads/main/beta_releases/1.1.1-9/BETA%20TESTING%20US%20Income%20Tax%20Form%20Reviewer%20Tool_1.1.1-9_x64_en-US.msi",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU3hudzBEVGtBRFZiV1BIWXBvdVhUT1hnNW9jR2M1dDBENUtrTVNUdjFYelY2RG1PSkZUa2VzdW1ReTY1VUF3R2RlVE5YRDNGelEwRW5MY2ZXdTgxdGsyLzNETGtNN1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODg1MjE3CWZpbGU6QkVUQSBURVNUSU5HIFVTIEluY29tZSBUYXggRm9ybSBSZXZpZXdlciBUb29sXzEuMS4xLTlfeDY0X2VuLVVTLm1zaQpaRVQrOUQ5Zm1Bd25YeHVlanhLaHhweFgrTDcrbzNsYU12OWpUWHRWelVKMlZlZ3BYQmM3bENvSnhRUXo1am5QcWx6VW1GOFRZR2RXN2M0NktSejVDUT09Cg=="
         }
     },
-    "pub_date": "2026-06-18T12:58:23.430Z",
-    "version": "1.1.1-8"
+    "pub_date": "2026-06-19T12:58:23.430Z",
+    "version": "1.1.1-9"
 }
